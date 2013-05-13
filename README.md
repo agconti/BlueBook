@@ -5,4 +5,4 @@ This repository contains a quantitative pricing model to predict the sale price 
 Competition Website: http://www.kaggle.com/c/bluebook-for-bulldozers
 
 ##Instructions
-Download the included IPython Notebook and the data set from the competition website to follow along interactively.
+Download the included IPython Notebook and the dataset from the competition website located [here](http://www.kaggle.com/c/bluebook-for-bulldozers/data) to follow along interactively.
